@@ -8,7 +8,7 @@ source :rubygems
 
 gem 'nokogiri' 
 
-gem 'rails', '~> 3.2.1'
+gem 'rails', '~> 3.2.11'
 gem 'pg'
 
 gem 'therubyracer', :require => 'v8'
